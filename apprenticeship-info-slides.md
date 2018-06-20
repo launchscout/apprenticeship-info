@@ -6,12 +6,6 @@
 --
 ## How this all came about
 --
-## The process
-* This
-* Math/Logic Test
-* Coding together
-* Finding a team
---
 ## What is an apprentice?
 * Knows how to code
 * Lacks job experience
@@ -21,6 +15,13 @@
 * Pairs of apprentices
 * A mentor
 * Joining a team for 6 months
+--
+## The road to apprenticeship...
+* Apply on website
+* This
+* Math/Logic Test
+* Coding together
+* Finding a team
 --
 ## What does an apprentice do?
 * Writes real production code
@@ -70,3 +71,7 @@
 * [Score Fluent](https://github.com/MityaDSCH/score-fluent)
 * [FrankenCalculator](https://sashakoro.github.io/calculator/)
 --
+### What if I'm not ready yet?
+* https://www.meetup.com/Cincinnati-Web-Tech-Study-Group/
+--
+# Questions?
